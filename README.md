@@ -31,6 +31,12 @@ To run this program you will require a API key. Register your API key by clickin
 * Run the program by python main.py
 * Enjoy !!!!
 
+# :clipboard:Result
+![image](https://user-images.githubusercontent.com/98146902/176905588-fe2e3bbd-a29f-46eb-856d-ef6303861c80.png)
+<p align="center">:point_down:</p>
+
+![image](https://user-images.githubusercontent.com/98146902/176905742-16878a08-ded3-4751-86c7-c586d15472b4.png)
+
 # :name_badge:License 
 This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Duration-of-a-YouTube-PlayList/blob/master/LICENSE) 2022 vikas bhadu
 
